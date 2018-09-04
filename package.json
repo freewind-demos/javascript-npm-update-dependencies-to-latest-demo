@@ -1,8 +1,8 @@
 {
-  "scripts": {
-    "demo": "node hello.js"
-  },
   "dependencies": {
-    "lodash": "^4.17.10"
+    "lodash": "^1.0.1"
+  },
+  "devDependencies": {
+    "npm-check-updates": "^2.14.2"
   }
 }
