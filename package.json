@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "lodash": "^1.0.1"
+    "lodash": "1.0.1"
   },
   "devDependencies": {
-    "npm-check-updates": "^2.14.2"
+    "npm-check-updates": "2.14.2"
   }
 }
